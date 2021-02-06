@@ -11,9 +11,6 @@ namespace ConsoleApp
         public int c { get; set; }
         public int e  { get; set; }
         public int f { get; set; }
-
-
-
         public int z { get; set; }
     }
 }

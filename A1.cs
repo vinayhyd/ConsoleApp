@@ -4,20 +4,15 @@ using System.Text;
 
 namespace ConsoleApp
 {
-    static class A
+    static class A1
     {
         static int a;
 
         // constructor 
-        static A() 
+        static A1() 
         { 
         
-        }   
-        static void A1()
-        {
-            A2();
         }
-
         static void A2()
         {
 

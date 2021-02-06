@@ -1,0 +1,39 @@
+https://us05web.zoom.us/j/9211509819?pwd=Q3dZSEs0Y3JvUlJ1SXV0OUFDYmgwQT09
+BlazorLearning (UI)  <->  Web API (url) <-> Busineess <-> Repository (DB) (ADO.net/Enity Framwork) <-> DB (SQL)
+HTML
+CSS  > Bootstrap                   
+C# >                               
+
+SQL > Table, Data,  SP, Functions
+
+ORacle
+SQL Server
+MYSQL       > SunMicros (Java)
+MS ACcess
+----------------------------------------------------------------------------------------------------------------------
+
+C<C++ < C#  JAVA Python 
+
+OOPS(code resuable) , Object.
+
+C# >  lang  (.Net Framework)/ core
+
+Console              >  exe (VLC)  > Winform  
+Web Application      >  web application 
+Services             > service  (XML,JSON)
+-----------------------------------------------------------------------------------------------------------------------
+Visual Studio (.net) >  Comm(), Pro ,Ent
+VIsual COde () > one version
+----------------------------------------------------------------------------------------------------------------------
+
+
+C# > Main() >
+
+if 
+switch
+while , do while
+for loop
+foreach 
+
+vinayhyd
+Vinay@2020
