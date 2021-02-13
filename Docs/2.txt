@@ -1,0 +1,12 @@
+﻿> 6-Feb
+If conditions,Ternary Operators,Method Passing parameters(variables,Objects).
+----------------------------------------------------------------------------------------------------------------
+> 13-Feb
+switch,Arrays(exception),For Loop,Foreach loop
+
+TODO:
+pre inc/post inc 
+pre dec/post dec
+// Nested Loops lo  (https://www.tutorialspoint.com/different-star-pattern-programs-in-chash)
+
+----------------------------------------------------------------------------------------------------------------

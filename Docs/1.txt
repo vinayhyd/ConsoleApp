@@ -37,3 +37,8 @@ foreach
 
 vinayhyd
 Vinay@2020
+D:\Desktop\Training\DOCFX\docfx.exe  build
+
+D:\Desktop\Training\DOCFX\docfx.exe  D:\Desktop\Training\App\Docs\docfx_project\docfx.json --serve _site -p 8085
+
+
