@@ -10,3 +10,7 @@ pre dec/post dec
 // Nested Loops lo  (https://www.tutorialspoint.com/different-star-pattern-programs-in-chash)
 
 ----------------------------------------------------------------------------------------------------------------
+> 21-Feb
+Simple calculator if,switch // method
+for 
+

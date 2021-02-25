@@ -10,8 +10,50 @@ namespace ConsoleApp
         }
         static void Main(string[] args)
         {
+            
+            Task_Method operations = new Task_Method();
+           
+
+
+            int sol = operations.Methodopertions2(10,20,1);
+
+            Console.WriteLine(sol);
+
+
+
+          //string input = Console.ReadLine(); // Add, Sub, Div,Mult
+          ////variables
+
+            //if (input=="add")
+            //{
+            //    // Addition
+            //}
+            //else if (input=="SUb")
+            //{
+            //    // subtra
+            //}
+
+
+            //Switch
+
+
+
             //A2 c = new A2();
             //c.Test1(6, 5, 1, 2, 6);
+
+            ////A5 check = new A5();
+            ////check.Testfor();
+
+            //A5.Testfor();
+
+            // A4 newmethod = new A4();
+
+            // newmethod.test4();
+
+
+            //A4 star = new A4();
+            //star.test4();
+
             //A3 c1 = new A3();
             //c1.a = 5;
             //c1.b = 10;
@@ -19,7 +61,7 @@ namespace ConsoleApp
             //c1.e = 6;
             //c1.f = 6;
 
-            //c.Test2(c1);
+            //c1.Test2(c1);
         }
 
         private static void LoopsArrays()

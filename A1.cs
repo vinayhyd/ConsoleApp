@@ -11,6 +11,7 @@ namespace ConsoleApp
         // constructor 
         static A1() 
         { 
+
         
         }
         static void A2()

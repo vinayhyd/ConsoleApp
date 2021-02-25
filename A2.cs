@@ -8,6 +8,12 @@ namespace ConsoleApp
     {
         public void Test1(int a, int b, int c,int e,int f)
         {
+
+            //A4 z = new A4();
+            //z.Apple();
+
+            A5.Testfor();
+
             string d= (a != b) ? ((a > b) ? "a is gre" : " LESSE") : "a is eequls";
             Console.WriteLine(d);
         }
@@ -23,5 +29,7 @@ namespace ConsoleApp
             Console.WriteLine("IN Test2");
             return 6;
         }
+
+
     }
 }
