@@ -38,7 +38,7 @@ namespace ConsoleApp
             int result = 0;
 
 
-            result = (c == 1) ? (a + b) : ((c==2)?(a-b):((c==3)?(a*b):(c==4)?(a/b):0));
+            result = (c == 1) ? (a + b) : ((c == 2) ? (a - b) : ((c == 3) ? (a * b) : (c == 4) ? (a / b) : 0));
 
 
             //switch (c)
@@ -60,5 +60,54 @@ namespace ConsoleApp
             return result;
 
         }
+        public void Consoleinput()
+        {
+            Console.WriteLine("Enter the operator");
+            Console.WriteLine("1 for add");
+            Console.WriteLine("2 for sub");
+            Console.WriteLine("3 for multi");
+            Console.WriteLine("4 for div");
+            int c = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a value");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter b value");
+            int b = Convert.ToInt32(Console.ReadLine());
+            int result = 0;
+
+            result = (c == 1) ? (a + b) : ((c == 2) ? (a - b) : ((c == 3) ? (a * b) : (c == 4) ? (a / b) : 0));
+
+            Console.WriteLine(result);
+
+            //Console.WriteLine("Do you want to continue");
+            //Console.WriteLine("yes to continue");
+            //Console.WriteLine("no to stop");
+            //string yes = Convert.ToString(Console.ReadLine());
+
+
+
+
+
+
+            // switch (c)
+            // {
+            //     case 1:
+            //         result = a + b;
+            //           break;
+            //     case 2:
+            //         result = a - b;
+            //          break;
+            //     case 3:
+            //         result = a * b;
+            //         break;
+            //     case 4:
+            //         result = a / b;
+            // break;
+
+            //}
+
+
+        }
+
+
     }
 }

@@ -12,10 +12,7 @@ namespace ConsoleApp
         {
             
             Task_Method operations = new Task_Method();
-           
-
-
-            int sol = operations.Methodopertions2(10,20,1);
+             int sol = operations.Consoleinput();
 
             Console.WriteLine(sol);
 
