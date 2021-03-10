@@ -79,9 +79,19 @@ namespace ConsoleApp
             Console.WriteLine(result);
 
             //Console.WriteLine("Do you want to continue");
-            //Console.WriteLine("yes to continue");
-            //Console.WriteLine("no to stop");
-            //string yes = Convert.ToString(Console.ReadLine());
+            //Console.WriteLine("y or N");
+            //string option = Convert.ToString(Console.ReadLine());
+
+            
+
+
+
+            //if (option == "y")
+            //{
+            //    Consoleinput();
+            //}
+            //else return;
+
 
 
 
@@ -106,6 +116,26 @@ namespace ConsoleApp
             //}
 
 
+        }
+
+        public void Even()
+        {
+            int i = 7;
+            if (i % 2 != 0)
+            {
+                Console.WriteLine("This is even number");
+            }
+            else
+            {
+                Console.WriteLine("This is not even number");
+            }
+               
+
+
+            // for (i=0; i<=100; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
         }
 
 

@@ -10,16 +10,34 @@ namespace ConsoleApp
         }
         static void Main(string[] args)
         {
-            
+
+            //int i = 10;
+
+
+            //while (i > 5)
+            //{
+            //    Console.WriteLine(i);
+            //    i--;
+            //}
+
+
+
+            //do
+            //{
+            //    Console.WriteLine(i);
+            //    i--;
+            //}
+            //while (i > 5);
+
             Task_Method operations = new Task_Method();
-             int sol = operations.Consoleinput();
+            operations.Even();
 
-            Console.WriteLine(sol);
+            //Console.WriteLine(sol);
 
 
 
-          //string input = Console.ReadLine(); // Add, Sub, Div,Mult
-          ////variables
+            //string input = Console.ReadLine(); // Add, Sub, Div,Mult
+            ////variables
 
             //if (input=="add")
             //{

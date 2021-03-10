@@ -14,3 +14,6 @@ pre dec/post dec
 Simple calculator if,switch // method
 for 
 
+
+
+
