@@ -120,22 +120,28 @@ namespace ConsoleApp
 
         public void Even()
         {
-            int i = 7;
-            if (i % 2 != 0)
+            int i = 0;
+          for (i = 0; i <= 100; i++)
             {
-                Console.WriteLine("This is even number");
-            }
-            else
-            {
-                Console.WriteLine("This is not even number");
-            }
-               
+                if (i % 2 != 0)
+                {
+                    Console.Write(i+",");
+                }
+                else
+                {
+                    //Console.WriteLine(i+"is not odd number");
+                }
 
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i + ",");
+                }
+                else
+                {
+                    //Console.WriteLine(i+"is not Even number");
+                }
 
-            // for (i=0; i<=100; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            }
         }
 
 
