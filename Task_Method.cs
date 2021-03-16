@@ -121,27 +121,27 @@ namespace ConsoleApp
         public void Even()
         {
             int i = 0;
+            string odd = "";
           for (i = 0; i <= 100; i++)
             {
                 if (i % 2 != 0)
                 {
-                    Console.Write(i+",");
+                    //Console.WriteLine(i+",");
+                    odd = odd+","+Convert.ToString(i); // i.ToString()
                 }
-                else
-                {
-                    //Console.WriteLine(i+"is not odd number");
-                }
+               
 
-                if (i % 2 == 0)
-                {
-                    Console.WriteLine(i + ",");
-                }
-                else
-                {
-                    //Console.WriteLine(i+"is not Even number");
-                }
+                //if (i % 2 == 0)
+                //{
+                //    Console.WriteLine(i + ",");
+                //}
+                //else
+                //{
+                //    //Console.WriteLine(i+"is not Even number");
+                //}
 
             }
+            Console.WriteLine(odd);
         }
 
 

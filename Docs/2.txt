@@ -15,5 +15,44 @@ Simple calculator if,switch // method
 for 
 
 
+----------------------------------------------------------------------------------------------------------------
+
+15/03/2021
+-----------
+
+Data type(var, int, string,bool)
+variblees declaration( int a;)
+varible initializations(int a=1;)
+operators(-,+,*,/,%,=,==,<,> <=,=>,++,--,!)
+tarnary a?b:c
+condtional statments
+if, IF else, Nested if(else if)
+switch case
+do while loop, while loop, for loop.
+arrays[]
+collections arrey list, list, dictionary, hash table.
+
+
+var key word - any data tye can be stored(int,string,class,method,object,array).
+Creating methods or Function
+Methods parameters
+Exception handing(try,catch,finally)
+
+
+Static- varaibles, class , methods
+
+
+oops principles
+----------------
+class
+object
+encapsualtion
+abstraction
+inheritance
+
+
+method overloading
+method overriding
+
 
 

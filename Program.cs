@@ -10,6 +10,19 @@ namespace ConsoleApp
         }
         static void Main(string[] args)
         {
+            int a = -10;
+            if (Convert.ToBoolean(a))
+            {
+                Console.WriteLine("true");
+            }
+
+
+
+
+
+
+
+
 
             //int i = 10;
 
@@ -29,8 +42,8 @@ namespace ConsoleApp
             //}
             //while (i > 5);
 
-            Task_Method operations = new Task_Method();
-            operations.Even();
+            //Task_Method operations = new Task_Method();
+            //operations.Even();
 
             //Console.WriteLine(sol);
 
